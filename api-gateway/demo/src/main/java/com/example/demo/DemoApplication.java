@@ -37,7 +37,7 @@ public class DemoApplication {
 	public String available() {
 		LOG.log(Level.INFO, "In first service - Working on port " + env.getProperty("local.server.port"));
 		return restTemplate.getForObject("http://localhost:8888/second", String.class);
-		//return "Spring in Action 1";
+		//return "Spring in Action";
 	}
 
 	@RequestMapping(value = "/second")
