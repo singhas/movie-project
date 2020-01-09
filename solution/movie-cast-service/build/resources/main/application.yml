@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: movie-cast-service
+  redis:
+    host: localhost
+    port: 6379
+
+info:
+  app:
+    name: Movie Cast Service
+
+management:
+  endpoint:
+    health:
+      show-details: always
+
+eureka:
+  client:
+    enabled: true
+    serviceUrl:
+      defaultZone: http://discUser:discPassword@localhost:8761/eureka/
+  instance:
+    instance-id: ${spring.application.name}:${random.value}
+
+server:
+  port: ${PORT:0}

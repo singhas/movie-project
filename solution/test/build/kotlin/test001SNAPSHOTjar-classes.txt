@@ -1,0 +1,1 @@
+/Users/h2user/microservices/microservice-workshop-kotlin/solution/test/build/classes/kotlin/main/com/example/test/TestApplication.class:/Users/h2user/microservices/microservice-workshop-kotlin/solution/test/build/classes/kotlin/main/com/example/test/TestApplicationKt.class

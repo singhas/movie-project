@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ccab584-f75e-4e0b-bdda-c698751a192f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../eureka-server/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/MovieAggregatorServiceRtApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/MovieAggregatorServiceRtApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/http/MovieController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/http/MovieController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/model/Movie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/model/Movie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/AggregateMovieService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/AggregateMovieService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieCastService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieCastService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/src/main/kotlin/microservice/workshop/movieaggregatorservice/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/src/main/kotlin/microservice/workshop/movieaggregatorservice/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/src/main/kotlin/microservice/workshop/movieawardservice/MovieAwardServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/src/main/kotlin/microservice/workshop/movieawardservice/MovieAwardServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/MovieCastServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/MovieCastServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/http/CastController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/http/CastController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/manifest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/manifest.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/MovieServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/MovieServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SwaggerConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SwaggerConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/data/MovieRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/data/MovieRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/http/MovieController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/http/MovieController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/model/Movie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/model/Movie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/application-default.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/MovieServiceApplicationTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/MovieServiceApplicationTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/http/MovieControllerTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/http/MovieControllerTests.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../../../api-gateway/demo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../../api-gateway/gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../eureka-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../hystrix-dashboard">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../movie-aggregator-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../movie-aggregator-service-rt">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../movie-award-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../movie-cast-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../movie-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1WA3kQlXCHGzFPb5IXr4ntbUfpc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.hystrixdashboard.HystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieAggregatorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-aggregator-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.movieaggregatorservice.MovieAggregatorServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieAggregatorServiceRtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-aggregator-service-rt.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.movieaggregatorservicert.MovieAggregatorServiceRtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieAwardServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-award-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microservice.workshop.movieawardservice.MovieAwardServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieCastServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-cast-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microserviceworkshop.moviecastservice.MovieCastServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="microserviceworkshop.movieservice.MovieServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15829651" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ccab584-f75e-4e0b-bdda-c698751a192f" name="Default Changelist" comment="" />
+      <created>1578578714469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578578714469</updated>
+      <workItem from="1578578715685" duration="1098000" />
+      <workItem from="1578579830206" duration="3000" />
+      <workItem from="1578579847079" duration="811000" />
+      <workItem from="1578580734350" duration="3317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="397" key="#Notifications" timestamp="1578578777754">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="397" key="#Notifications/0.23.2560.1417@0.23.2560.1417" timestamp="1578578777754" />
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578578872210">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1578578872210" />
+    <state width="2094" height="407" key="GridCell.Tab.0.bottom" timestamp="1578584345810">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345810" />
+    <state width="2094" height="407" key="GridCell.Tab.0.center" timestamp="1578584345809">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345809" />
+    <state width="2094" height="407" key="GridCell.Tab.0.left" timestamp="1578584345809">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345809" />
+    <state width="2094" height="407" key="GridCell.Tab.0.right" timestamp="1578584345810">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345810" />
+    <state width="2094" height="407" key="GridCell.Tab.1.bottom" timestamp="1578584345811">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345811" />
+    <state width="2094" height="407" key="GridCell.Tab.1.center" timestamp="1578584345810">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345810" />
+    <state width="2094" height="407" key="GridCell.Tab.1.left" timestamp="1578584345810">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345810" />
+    <state width="2094" height="407" key="GridCell.Tab.1.right" timestamp="1578584345810">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2094" height="407" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1578584345810" />
+    <state x="909" y="432" key="NewModule_or_Project.wizard" timestamp="1578579248020">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="909" y="432" key="NewModule_or_Project.wizard/0.23.2560.1417@0.23.2560.1417" timestamp="1578579248020" />
+  </component>
+</project>

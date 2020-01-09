@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bab3841b-820a-4099-98ae-2656f006f598" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../eureka-server/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/MovieAggregatorServiceRtApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/MovieAggregatorServiceRtApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/http/MovieController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/http/MovieController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/model/Movie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/model/Movie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/AggregateMovieService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/AggregateMovieService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieCastService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieCastService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/kotlin/microservice/workshop/movieaggregatorservicert/service/MovieService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service-rt/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/src/main/kotlin/microservice/workshop/movieaggregatorservice/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/src/main/kotlin/microservice/workshop/movieaggregatorservice/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-aggregator-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-aggregator-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/src/main/kotlin/microservice/workshop/movieawardservice/MovieAwardServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/src/main/kotlin/microservice/workshop/movieawardservice/MovieAwardServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-award-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-award-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/MovieCastServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/MovieCastServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/http/CastController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/kotlin/microserviceworkshop/moviecastservice/http/CastController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-cast-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-cast-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/manifest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/manifest.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/MovieServiceApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/MovieServiceApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SecurityConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SecurityConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SwaggerConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/SwaggerConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/data/MovieRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/data/MovieRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/http/MovieController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/http/MovieController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/model/Movie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/kotlin/microserviceworkshop/movieservice/model/Movie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/application-default.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/MovieServiceApplicationTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/MovieServiceApplicationTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/http/MovieControllerTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/test/kotlin/microserviceworkshop/movieservice/http/MovieControllerTests.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1VFVkjNvtuh1JGeZ4CtqUbBuqyX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bab3841b-820a-4099-98ae-2656f006f598" name="Default Changelist" comment="" />
+      <created>1576848974290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576848974290</updated>
+      <workItem from="1576848978459" duration="48000" />
+      <workItem from="1578578189362" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="348" key="#Project_Structure" timestamp="1576849004566">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="803" y="348" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1576849004566" />
+  </component>
+</project>
